@@ -4,6 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BarryAlllen/BarryAlllen/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarryAlllen&theme=dark&show_icons=true)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=185DF7&width=435&lines=HA+HA+HA+HA+HA+HA+HA+HA+HA+HA+......)](https://git.io/typing-svg)
