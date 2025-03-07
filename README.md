@@ -6,7 +6,6 @@
 
 <br><br>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryAlllen)
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=185DF7&width=435&lines=HA+HA+HA+HA+HA+HA+HA+HA+HA+HA+......)](https://git.io/typing-svg)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryAlllen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=185DF7&width=435&lines=HA+HA+HA+HA+HA+HA+HA+HA+HA+HA+......)](https://git.io/typing-svg)
+
